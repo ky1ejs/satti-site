@@ -3,7 +3,7 @@ import Head from 'next/head'
 import { Center } from '../components/Center'
 
 const Home: NextPage = () => (
-  <div className={styles.container}>
+  <div>
     <Head>
       <title>Satti</title>
       <meta name="description" content="Kyle, Sabrina and Parker" />
