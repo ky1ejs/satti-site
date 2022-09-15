@@ -12,6 +12,7 @@ const Home: NextPage = () => (
 
     <FullWindow>
       <Center>
+        <h2>Satti</h2>
         <ul>
           <li><a href='https://kylejs.me'>Kyle</a></li>
           <li><a href='https://instagram.com/sabrina.satti'>Sabrina</a></li>
