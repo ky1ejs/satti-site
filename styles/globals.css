@@ -12,6 +12,8 @@ body {
 
 ul {
   list-style: none;
+  padding-left: 0;
+  text-align: center;
 }
 
 @media (prefers-color-scheme: dark) {
