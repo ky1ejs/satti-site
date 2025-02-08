@@ -16,7 +16,6 @@ const Home: NextPage = () => (
         <ul>
           <li><a href='https://kylejs.me'>Kyle</a></li>
           <li><a href='https://instagram.com/sabrina.satti'>Sabrina</a></li>
-          <li><a href='https://instagram.com/parker.dachshund'>Parker</a></li>
         </ul>
       </Center>
     </FullWindow>
